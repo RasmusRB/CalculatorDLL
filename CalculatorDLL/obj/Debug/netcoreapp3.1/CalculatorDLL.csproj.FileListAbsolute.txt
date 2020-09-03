@@ -1,0 +1,9 @@
+C:\Users\rasmu\source\repos\CalculatorDLL\CalculatorDLL\bin\Debug\netcoreapp3.1\CalculatorDLL.deps.json
+C:\Users\rasmu\source\repos\CalculatorDLL\CalculatorDLL\bin\Debug\netcoreapp3.1\CalculatorDLL.dll
+C:\Users\rasmu\source\repos\CalculatorDLL\CalculatorDLL\bin\Debug\netcoreapp3.1\CalculatorDLL.pdb
+C:\Users\rasmu\source\repos\CalculatorDLL\CalculatorDLL\obj\Debug\netcoreapp3.1\CalculatorDLL.csprojAssemblyReference.cache
+C:\Users\rasmu\source\repos\CalculatorDLL\CalculatorDLL\obj\Debug\netcoreapp3.1\CalculatorDLL.AssemblyInfoInputs.cache
+C:\Users\rasmu\source\repos\CalculatorDLL\CalculatorDLL\obj\Debug\netcoreapp3.1\CalculatorDLL.AssemblyInfo.cs
+C:\Users\rasmu\source\repos\CalculatorDLL\CalculatorDLL\obj\Debug\netcoreapp3.1\CalculatorDLL.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\source\repos\CalculatorDLL\CalculatorDLL\obj\Debug\netcoreapp3.1\CalculatorDLL.dll
+C:\Users\rasmu\source\repos\CalculatorDLL\CalculatorDLL\obj\Debug\netcoreapp3.1\CalculatorDLL.pdb
